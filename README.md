@@ -60,7 +60,8 @@ Otázka 4
 
 Otázka 5
 
- Jako hranici výrazné změny jsem si zvolila 3% meziroční změnu HDP (to samé platí pro cenu i mzdu). Při této hodnotě se z výsledných dat dá odvodit, že při nárůstu HDP o 3 % nedochází k výraznému zvýšení mezd či cen potravin ve stejném či následujícím roce. Za sledované období došlo k výraznému ovlivnění a růst mezd ve třech letech a u cen pouze ve dvou letech (mezi lety 2008 a 2009 došlo naopak k výraznému snížení). Pozn.: Samozřejmě jsou tedy výsledky ovlivněny výší zvolené procentuální hodnoty určující co pro nás znamená výrazné zvýšení HDP.
-Pozn. Oprava: Pro lepší orientaci by měl být v selectu zobrazen ještě předchozí rok = pr2.czechia_payroll_year AS prev_year - omlouvám se za opomenutí
+ Jako hranici výrazné změny jsem si zvolila 3% meziroční změnu HDP (to samé platí pro cenu i mzdu). Při této hodnotě se z výsledných dat dá odvodit, že při nárůstu HDP o 3 % nedochází k výraznému zvýšení mezd či cen potravin ve stejném či následujícím roce. Za sledované období došlo k výraznému ovlivnění a růst mezd ve třech letech a u cen pouze ve dvou letech (mezi lety 2008 a 2009 došlo naopak k výraznému snížení). 
+Pozn.1: Samozřejmě jsou tedy výsledky ovlivněny výší zvolené procentuální hodnoty určující co pro nás znamená "výrazné" zvýšení HDP.
+Pozn.2 - Oprava: Pro lepší orientaci by měl být v selectu zahrnut a tedy zobrazen ještě předchozí rok = pr2.czechia_payroll_year AS prev_year - omlouvám se za opomenutí
 
 
